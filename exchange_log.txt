@@ -1,0 +1,1 @@
+Command executed for 2 days with currencies: ['EUR', 'USD']
